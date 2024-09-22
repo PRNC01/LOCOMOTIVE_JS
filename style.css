@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+#Page1, #Page2 ,#Page3{
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+}
+#Page2 img{
+    width: 30rem;
+    height: 40rem;
+    background-size: cover;
+}
